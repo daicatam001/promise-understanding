@@ -1,0 +1,13 @@
+{
+  "name": "promise-understanding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/.bin/tape *.test.js | node node_modules/.bin/tap-spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
